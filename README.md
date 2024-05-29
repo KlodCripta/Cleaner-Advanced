@@ -27,6 +27,8 @@ The string should look like this:
 
 sudo pacman -U /home/UserName/Scaricati/cleaner-advanced-1.0.0-1-any.pkg.tar.zst
 
+Here is a short video guide on using and installing the software: https://youtu.be/d4PgerAl1qI
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -68,6 +70,8 @@ sudo pacman -U (inserisci qui il percorso del file scaricato cleaner-advanced-1.
 La stringa dovrebbe assomigliare a questa:
 
 sudo pacman -U /home/NomeUtente/Scaricati/cleaner-advanced-1.0.0-1-any.pkg.tar.zst
+
+Ecco una breve videoguida sull'uso e l'installazione del software: https://youtu.be/d4PgerAl1qI
 
 ## Licenza
 
