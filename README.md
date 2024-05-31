@@ -10,7 +10,7 @@ Cleaner Advanced is a simple system cleaning program for Arch Linux users, devel
 - Removes orphaned packages
 - Cleans system journal
 - Cleans temporary files
-- Cleans Paru cache
+- Cleans AUR Helper cache
 - Removes orphaned configuration files
 
 ## Usage
@@ -54,7 +54,7 @@ Cleaner Advanced è un semplice programma di pulizia del sistema per utenti Arch
 - Rimuove i pacchetti orfani
 - Pulisce il giornale di sistema
 - Pulisce i file temporanei
-- Pulisce la cache di Paru
+- Pulisce la cache degli AUR Helper
 - Rimuove i file di configurazione orfani
 
 ## Utilizzo
