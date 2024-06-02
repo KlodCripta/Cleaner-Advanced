@@ -32,13 +32,14 @@ Here is a short video guide on using and installing the software: https://youtu.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Author
+
+## Author
 
 Developed by Klod Cripta.
 
 Feel free to contribute, report issues, or suggest improvements!
 
-You can contact Klod Cripta via email (KlodCripta@linux.it)
+## You can contact Klod Cripta via email (KlodCripta@linux.it)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -76,10 +77,11 @@ Ecco una breve videoguida sull'uso e l'installazione del software: https://youtu
 ## Licenza
 
 Questo progetto è concesso in licenza con la licenza MIT: vedere il file LICENSE per i dettagli.
-Autore
+
+## Autore
 
 Sviluppato da Klod Cripta.
 
 Sentiti libero di contribuire, segnalare problemi o suggerire miglioramenti!
 
-Puoi contattare Klod Cripta tramite email (KlodCripta@linux.it)
+## Puoi contattare Klod Cripta tramite email (KlodCripta@linux.it)
