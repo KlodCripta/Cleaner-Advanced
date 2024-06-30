@@ -24,9 +24,9 @@ To install the package, simply run the following command in a Terminal or Konsol
 sudo pacman -U (enter the path to the downloaded file here cleaner-advanced-1.0.0-1-any.pkg.tar.zst or drag the file directly cleaner-advanced-1.0.0-1-any.pkg.tar.zst dalla cartella)
 
 The string should look like this:
-
+```bash
 sudo pacman -U /home/UserName/Scaricati/cleaner-advanced-1.0.0-1-any.pkg.tar.zst
-
+```
 Here is a short video guide on using and installing the software: https://youtu.be/d4PgerAl1qI
 
 ## License
@@ -69,9 +69,9 @@ Per installare il pacchetto, esegui semplicemente il seguente comando in una fin
 sudo pacman -U (inserisci qui il percorso del file scaricato cleaner-advanced-1.0.0-1-any.pkg.tar.zst oppure trascina il file cleaner-advanced-1.0.0-1-any.pkg.tar.zst direttamente dalla cartella in cui si trova fin dentro il Terminale/Konsole)
 
 La stringa dovrebbe assomigliare a questa:
-
+```bash
 sudo pacman -U /home/NomeUtente/Scaricati/cleaner-advanced-1.0.0-1-any.pkg.tar.zst
-
+```
 Ecco una breve videoguida sull'uso e l'installazione del software: https://youtu.be/d4PgerAl1qI
 
 ## Licenza
