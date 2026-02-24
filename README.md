@@ -6,7 +6,7 @@ Cleaner Advanced is a simple system maintenance script for Arch Linux users, wri
 
 ## Features
 
-- Cleans Pacman cache
+- Cleans pacman cache
 - Removes orphaned packages
 - Cleans system journal
 - Cleans temporary files
@@ -15,7 +15,7 @@ Cleaner Advanced is a simple system maintenance script for Arch Linux users, wri
 
 ## Usage (recommended method)
 
-TTo ensure maximum transparency, the recommended way to use Cleaner Advanced is to clone the repository and inspect the script before execution.
+To ensure maximum transparency, the recommended way to use Cleaner Advanced is to clone the repository and inspect the script before execution.
 
 ```bash
 git clone https://github.com/KlodCripta/Cleaner-Advanced.git 
@@ -34,7 +34,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Developed by Klod Cripta.
 
-Feel free to contribute, report issues, or suggest improvements!
+Contributions, issues reports and suggestions are welcome.
 
 ## You can contact Klod Cripta via email (KlodCripta@linux.it)
 
@@ -48,14 +48,14 @@ Cleaner Advanced è uno script di manutenzione per Arch Linux e derivate, svilup
 
 ## Caratteristiche
 
-- Pulisce la cache di Pacman
+- Pulisce la cache di pacman
 - Rimuove i pacchetti orfani
 - Pulisce il giornale di sistema
 - Pulisce i file temporanei
 - Pulisce la cache degli AUR Helper
 - Rimuove i file di configurazione orfani
 
-## Utilizzo
+## Utilizzo (metodo consigliato)
 
 Per garantire la massima trasparenza, il metodo consigliato consiste nel clonare il repository e ispezionare lo script prima dell’esecuzione.
 
@@ -76,6 +76,6 @@ Questo progetto è concesso in licenza con la licenza MIT: vedere il file LICENS
 
 Sviluppato da Klod Cripta.
 
-Sentiti libero di contribuire, segnalare problemi o suggerire miglioramenti!
+Contributi, segnalazioni e suggerimenti sono benvenuti.
 
 ## Puoi contattare Klod Cripta tramite email (KlodCripta@linux.it)
