@@ -2,7 +2,7 @@
 
 # Cleaner Advanced
 
-Cleaner Advanced is a simple system cleaning program for Arch Linux users, developed in Bash.
+Cleaner Advanced is a simple system maintenance script for Arch Linux users, written in Bash. It was developed as a personal experimental project to automate some common maintenance tasks while keeping full transparency over the executed operations.
 
 ## Features
 
@@ -13,21 +13,18 @@ Cleaner Advanced is a simple system cleaning program for Arch Linux users, devel
 - Cleans AUR Helper cache
 - Removes orphaned configuration files
 
-## Usage
+## Usage (recommended method)
 
-To use Cleaner Advanced, simply go to your programs menu and, under the "System" heading, locate the newly added "Cleaner Advanced" program and start it. Follow the on-screen instructions to choose the language and select the cleaning options.
+TTo ensure maximum transparency, the recommended way to use Cleaner Advanced is to clone the repository and inspect the script before execution.
 
-## Installation
-
-To install the package, simply run the following command in a Terminal or Konsole window:
-
-sudo pacman -U (enter the path to the downloaded file here cleaner-advanced-1.0.0-1-any.pkg.tar.zst or drag the file directly cleaner-advanced-1.0.0-1-any.pkg.tar.zst dalla cartella)
-
-The string should look like this:
 ```bash
-sudo pacman -U /home/UserName/Scaricati/cleaner-advanced-1.0.0-1-any.pkg.tar.zst
+git clone https://github.com/KlodCripta/Cleaner-Advanced.git 
+cd Cleaner-Advanced 
+chmod +x cleaner-advanced.sh 
+./cleaner-advanced.sh
 ```
-Here is a short video guide on using and installing the software: https://youtu.be/d4PgerAl1qI
+
+This approach allows the user to fully review the code before running it, in line with Arch Linux and free software best practices.
 
 ## License
 
@@ -47,7 +44,7 @@ Feel free to contribute, report issues, or suggest improvements!
 
 # Cleaner Advanced
 
-Cleaner Advanced è un semplice programma di pulizia del sistema per utenti Arch Linux e derivate, sviluppato in Bash.
+Cleaner Advanced è uno script di manutenzione per Arch Linux e derivate, sviluppato in Bash. È nato come progetto personale sperimentale con l’obiettivo di automatizzare alcune operazioni comuni di manutenzione mantenendo la massima trasparenza sul codice eseguito.
 
 ## Caratteristiche
 
@@ -60,19 +57,16 @@ Cleaner Advanced è un semplice programma di pulizia del sistema per utenti Arch
 
 ## Utilizzo
 
-Per utilizzare Cleaner Advanced, vai semplicemente al menu dei programmi e, sotto la voce "Sistema", individua il programma "Cleaner Advanced" appena aggiunto e avvialo. Inserisci la tua password. Segui le istruzioni nel Terminale/Konsole per scegliere la lingua e selezionare le opzioni di pulizia (Pulizia Leggera, Pulizia Profonda, Pulizia AUR)
+Per garantire la massima trasparenza, il metodo consigliato consiste nel clonare il repository e ispezionare lo script prima dell’esecuzione.
 
-## Installazione
-
-Per installare il pacchetto, esegui semplicemente il seguente comando in una finestra del Terminale/Konsole:
-
-sudo pacman -U (inserisci qui il percorso del file scaricato cleaner-advanced-1.0.0-1-any.pkg.tar.zst oppure trascina il file cleaner-advanced-1.0.0-1-any.pkg.tar.zst direttamente dalla cartella in cui si trova fin dentro il Terminale/Konsole)
-
-La stringa dovrebbe assomigliare a questa:
 ```bash
-sudo pacman -U /home/NomeUtente/Scaricati/cleaner-advanced-1.0.0-1-any.pkg.tar.zst
+git clone https://github.com/KlodCripta/Cleaner-Advanced.git 
+cd Cleaner-Advanced 
+chmod +x cleaner-advanced.sh 
+./cleaner-advanced.sh
 ```
-Ecco una breve videoguida sull'uso e l'installazione del software: https://youtu.be/d4PgerAl1qI
+
+Questo approccio consente all’utente di verificare completamente il codice prima dell’esecuzione, in linea con la filosofia di Arch Linux e del software libero.
 
 ## Licenza
 
