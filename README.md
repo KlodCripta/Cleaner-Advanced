@@ -1,7 +1,7 @@
 # English
 
 <p align="center">
-  <img src="cleaner-advanced2.0.png" width="600">
+  <img src="cleaner-advanced2.0.png" width="300">
 </p>
 
 [![AUR](https://img.shields.io/aur/version/cleaner-advanced)](https://aur.archlinux.org/packages/cleaner-advanced)
