@@ -1,6 +1,8 @@
 # English
 
-![Cleaner Advanced](cleaner-advanced2.0.png)
+<p align="center">
+  <img src="cleaner-advanced2.0.png" width="600">
+</p>
 
 [![AUR](https://img.shields.io/aur/version/cleaner-advanced)](https://aur.archlinux.org/packages/cleaner-advanced)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
