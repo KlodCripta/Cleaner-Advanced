@@ -1,5 +1,8 @@
 # English
 
+[![AUR](https://img.shields.io/aur/version/cleaner-advanced)](https://aur.archlinux.org/packages/cleaner-advanced)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 # Cleaner Advanced
 
 Cleaner Advanced is a simple system maintenance script for Arch Linux users, written in Bash. It was developed as a personal experimental project to automate some common maintenance tasks while keeping full transparency over the executed operations.
@@ -41,6 +44,9 @@ Contributions, issues reports and suggestions are welcome.
 ---------------------------------------------------------------------------------------------------------
 
 # ITALIANO
+
+[![AUR](https://img.shields.io/aur/version/cleaner-advanced)](https://aur.archlinux.org/packages/cleaner-advanced)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Cleaner Advanced
 
