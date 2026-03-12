@@ -77,6 +77,8 @@ Contributions, issues reports and suggestions are welcome.
 
 ---------------------------------------------------------------------------------------------------------
 
+# Italiano
+
 <p align="center">
   <img src="cleaner-advanced2.0.png" width="300" alt="Cleaner Advanced poster">
 </p>
@@ -98,16 +100,6 @@ Arch Linux system maintenance script written in Bash
 </p>
 
 ---
-
-# English
-
-Cleaner Advanced is a simple system maintenance script for Arch Linux users, written in Bash.
-
-It was developed as a personal experimental project to automate some common maintenance tasks while keeping full transparency over the executed operations.
-
----
-
-# Italiano
 
 Cleaner Advanced è uno script di manutenzione per Arch Linux e derivate, sviluppato in Bash.
 
