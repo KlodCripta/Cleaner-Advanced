@@ -20,6 +20,22 @@ Cleaner Advanced is a simple system maintenance script for Arch Linux users, wri
 - Cleans AUR Helper cache
 - Removes orphaned configuration files
 
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshot_1.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshot_2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshot_3.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshot_4.png" width="48%">
+</p>
+
+---
+
 ## Usage (recommended method)
 
 To ensure maximum transparency, the recommended way to use Cleaner Advanced is to clone the repository and inspect the script before execution.
@@ -64,6 +80,22 @@ Cleaner Advanced è uno script di manutenzione per Arch Linux e derivate, svilup
 - Pulisce i file temporanei
 - Pulisce la cache degli AUR Helper
 - Rimuove i file di configurazione orfani
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshot_1.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshot_2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshot_3.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshot_4.png" width="48%">
+</p>
+
+---
 
 ## Utilizzo (metodo consigliato)
 
