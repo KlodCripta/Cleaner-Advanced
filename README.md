@@ -86,7 +86,7 @@ Contributions, issues reports and suggestions are welcome.
 <h1 align="center">Cleaner Advanced</h1>
 
 <p align="center">
-Arch Linux system maintenance script written in Bash
+Script di manutenzione del sistema Arch Linux scritto in Bash
 </p>
 
 <p align="center">
