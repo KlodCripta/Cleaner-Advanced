@@ -1,7 +1,7 @@
 # English
 
 <p align="center">
-  <img src="cleaner_advanced_2.0_poster.png" width="300" alt="Cleaner Advanced poster">
+  <img src="cleaner_advanced_2.0_poster.jpg" width="300" alt="Cleaner Advanced poster">
 </p>
 
 <h1 align="center">Cleaner Advanced</h1>
@@ -80,7 +80,7 @@ Contributions, issues reports and suggestions are welcome.
 # Italiano
 
 <p align="center">
-  <img src="cleaner_advanced_2.0_poster.png" width="300" alt="Cleaner Advanced poster">
+  <img src="cleaner_advanced_2.0_poster.jpg" width="300" alt="Cleaner Advanced poster">
 </p>
 
 <h1 align="center">Cleaner Advanced</h1>
