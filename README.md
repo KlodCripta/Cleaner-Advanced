@@ -39,13 +39,13 @@ It was developed as a personal experimental project to automate common maintenan
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/cleaner_advanced_screenshot_1.png" width="48%">
-  <img src="screenshots/cleaner_advanced_screenshot_2.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshots_1.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshots_2.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="screenshots/cleaner_advanced_screenshot_3.png" width="48%">
-  <img src="screenshots/cleaner_advanced_screenshot_4.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshots_3.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshots_4.png" width="48%">
 </p>
 
 ---
@@ -119,13 +119,13 @@ Cleaner Advanced è uno script di manutenzione per Arch Linux e derivate, svilup
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/cleaner_advanced_screenshot_1.png" width="48%">
-  <img src="screenshots/cleaner_advanced_screenshot_2.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshots_1.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshots_2.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="screenshots/cleaner_advanced_screenshot_3.png" width="48%">
-  <img src="screenshots/cleaner_advanced_screenshot_4.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshots_3.png" width="48%">
+  <img src="screenshots/cleaner_advanced_screenshots_4.png" width="48%">
 </p>
 
 ---
