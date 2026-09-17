@@ -38,6 +38,28 @@ Aura keeps the most recent cached version of each package. Other helpers follow 
 
 The final summary shows whether each helper command returned an error. A check mark does not prove that files were deleted: declining a helper's own prompt can still return a successful exit code.
 
+### Screenshots
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshots_1.png" width="48%" alt="Language selection">
+  <img src="screenshots/cleaner_advanced_screenshots_2.png" width="48%" alt="Main menu">
+</p>
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshots_3.png" width="48%" alt="Light Clean">
+  <img src="screenshots/cleaner_advanced_screenshots_4.png" width="48%" alt="Deep Clean">
+</p>
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshots_5.png" width="48%" alt="AUR helper selection">
+  <img src="screenshots/cleaner_advanced_screenshots_6.png" width="48%" alt="Cleaning multiple AUR helpers">
+</p>
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshots_7.png" width="48%" alt="AUR helper cleaning summary">
+  <img src="screenshots/cleaner_advanced_screenshots_8.png" width="48%" alt="Exiting Cleaner Advanced">
+</p>
+
 ### Before you start
 
 You need Bash 4.3 or later, pacman, sudo, findutils, coreutils and a terminal. The `clear` command is provided by ncurses. These tools are normally available on Arch; Git is needed only for the clone method below. AUR helpers are optional and must already be installed.
@@ -111,6 +133,28 @@ Se trova un solo helper, Cleaner chiede conferma e procede. Se ne trova più di 
 Aura conserva la versione più recente di ogni pacchetto nella cache. Gli altri helper seguono le proprie regole e impostazioni. Alcuni richiamano anche la pulizia di pacman: scegliendo tutti gli helper, le sue domande possono comparire più volte. Cleaner non aggiunge `--noconfirm`.
 
 Il riepilogo finale indica se il comando di ciascun helper ha restituito un errore. Il segno di spunta non garantisce che siano stati eliminati dei file: anche rispondere di no alla conferma di un helper può restituire un codice di uscita senza errori.
+
+### Screenshots
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshots_1.png" width="48%" alt="Scelta della lingua">
+  <img src="screenshots/cleaner_advanced_screenshots_2.png" width="48%" alt="Menu principale">
+</p>
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshots_3.png" width="48%" alt="Pulizia Leggera">
+  <img src="screenshots/cleaner_advanced_screenshots_4.png" width="48%" alt="Pulizia Profonda">
+</p>
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshots_5.png" width="48%" alt="Selezione degli AUR helper">
+  <img src="screenshots/cleaner_advanced_screenshots_6.png" width="48%" alt="Pulizia di più AUR helper">
+</p>
+
+<p align="center">
+  <img src="screenshots/cleaner_advanced_screenshots_7.png" width="48%" alt="Riepilogo della pulizia AUR">
+  <img src="screenshots/cleaner_advanced_screenshots_8.png" width="48%" alt="Uscita da Cleaner Advanced">
+</p>
 
 ### Prima di iniziare
 
