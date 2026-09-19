@@ -9,7 +9,7 @@
 ## English
 
 <p align="center">
-  <img src="cleaner_advanced_3.0_poster.jpg" width="500" alt="Cleaner Advanced 3.0 poster">
+  <img src="cleaner_advanced_3.0_poster2.jpg" width="500" alt="Cleaner Advanced 3.0 poster">
 </p>
 
 Cleaner Advanced is a small Bash script for cleaning package caches on Arch Linux and its derivatives. It brings a few commands into one terminal menu, with an English or Italian interface.
@@ -109,7 +109,7 @@ For bugs or suggestions, [open an issue](https://github.com/KlodCripta/Cleaner-A
 ## Italiano
 
 <p align="center">
-  <img src="cleaner_advanced_3.0_poster.jpg" width="500" alt="Poster di Cleaner Advanced 3.0">
+  <img src="cleaner_advanced_3.0_poster2.jpg" width="500" alt="Poster di Cleaner Advanced 3.0">
 </p>
 
 Cleaner Advanced è un piccolo script Bash per pulire la cache dei pacchetti su Arch Linux e derivate. Raccoglie alcuni comandi in un menu da terminale, disponibile in italiano e inglese.
